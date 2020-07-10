@@ -17,4 +17,4 @@ Meu nome é Adriano Silva Pereira, sou Desenvolvedor Web com mais de 4 anos de e
 
 - :rocket: Techs: PHP, Java, Angular, Javascript, jQuery, MySQL e PostgreSQL .
 
-> :octocat: [https://www.adrianosilvapereira.com.br/](https://www.adrianosilvapereira.com.br/)
+- :octocat: [https://www.adrianosilvapereira.com.br/](https://www.adrianosilvapereira.com.br/)
